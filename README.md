@@ -18,4 +18,4 @@ A basic web app to manage employees, built using **HTML**, **Tailwind CSS**, and
 
 ## 🚀 How to Run
 
-1. Clone the repo:
+1. Clone the repo
